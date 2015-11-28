@@ -1,0 +1,22 @@
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+C:\Users\robert.coil\Documents\classes\5292\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+E:\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+E:\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+E:\File WriteLine Demo +\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\File WriteLine Demo +\File WriteLine Demo\obj\x86\Debug\GenerateResource.write.1.tlog

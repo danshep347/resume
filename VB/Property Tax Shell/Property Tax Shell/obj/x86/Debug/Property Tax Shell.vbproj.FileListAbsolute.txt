@@ -1,0 +1,15 @@
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\bin\Debug\Property Tax Shell.exe
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\bin\Debug\Property Tax Shell.pdb
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\bin\Debug\Property Tax Shell.xml
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property_Tax_Shell.FMain.resources
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property_Tax_Shell.Resources.resources
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.exe
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.xml
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.pdb
+C:\Users\Daniel\Downloads\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property_Tax_Shell.frmModifyRates.resources
+E:\Year 1\2012 Spring\VB #2\Projects\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.exe
+E:\Year 1\2012 Spring\VB #2\Projects\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.xml
+E:\Year 1\2012 Spring\VB #2\Projects\Property Tax Shell\Property Tax Shell\Property Tax Shell\obj\x86\Debug\Property Tax Shell.pdb

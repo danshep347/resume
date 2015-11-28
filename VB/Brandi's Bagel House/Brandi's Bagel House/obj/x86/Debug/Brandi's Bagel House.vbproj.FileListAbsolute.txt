@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\bin\Debug\Brandi's Bagel House.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\bin\Debug\Brandi's Bagel House.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\bin\Debug\Brandi's Bagel House.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\Brandi_s_Bagel_House.frmBrandisBagelHouse.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\Brandi_s_Bagel_House.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\Brandi's Bagel House.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\Brandi's Bagel House.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\obj\x86\Debug\Brandi's Bagel House.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\bin\Debug\Brandi's Bagel House.exe.CodeAnalysisLog.xml
+C:\Users\Daniel\documents\visual studio 2010\Projects\Brandi's Bagel House\Brandi's Bagel House\bin\Debug\Brandi's Bagel House.exe.lastcodeanalysissucceeded

@@ -1,0 +1,41 @@
+body {
+			font-family: sans-serif; 
+			margin: 20px; 
+			margin-bottom: 150px;
+	  }
+	 
+h2 {
+			margin-top: 0px;
+	}
+   
+img {
+			border-width: 0px; 
+	 }
+	 
+instruction {
+			color: blue;
+			font-weight: bold;
+			 }
+
+.info {
+			padding: 0px 5px;
+			display: inline-block;
+	   }
+	   
+.time {
+			color: yellow;
+			font-weight: bold;
+	   }
+	   
+.notes {
+			background-color: blue;
+			color: white;
+			font-size: 11px;
+			height: 20px;
+			width: 20px;
+			overflow: hidden;
+			position: absolute;
+			text-decoration: none;
+			z-index: 10;
+		}
+		

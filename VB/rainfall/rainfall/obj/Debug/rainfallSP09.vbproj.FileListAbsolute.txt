@@ -1,0 +1,13 @@
+D:\5291\rainfallSP09\rainfallSP09\bin\Debug\rainfallSP09.exe
+D:\5291\rainfallSP09\rainfallSP09\bin\Debug\rainfallSP09.pdb
+D:\5291\rainfallSP09\rainfallSP09\bin\Debug\rainfallSP09.xml
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\ResolveAssemblyReference.cache
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.Form1.resources
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.Resources.resources
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.vbproj.GenerateResource.Cache
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.exe
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.xml
+D:\5291\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.pdb
+C:\Documents and Settings\robert.coil\My Documents\classes\5291\Old VB Projects\rainfallSP09\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.exe
+C:\Documents and Settings\robert.coil\My Documents\classes\5291\Old VB Projects\rainfallSP09\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.xml
+C:\Documents and Settings\robert.coil\My Documents\classes\5291\Old VB Projects\rainfallSP09\rainfallSP09\rainfallSP09\obj\Debug\rainfallSP09.pdb

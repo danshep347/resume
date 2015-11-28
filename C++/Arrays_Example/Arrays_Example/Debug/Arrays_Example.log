@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Procedures.cpp
+c:\users\daniel\documents\visual studio 2010\projects\arrays_example\arrays_example\procedures.cpp(11): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+          Add directive to 'StdAfx.h' or rebuild precompiled header
+c:\users\daniel\documents\visual studio 2010\projects\arrays_example\arrays_example\procedures.cpp(12): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+          Add directive to 'StdAfx.h' or rebuild precompiled header
+c:\users\daniel\documents\visual studio 2010\projects\arrays_example\arrays_example\procedures.cpp(99): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Arrays_Example.cpp
+c:\users\daniel\documents\visual studio 2010\projects\arrays_example\arrays_example\arrays_example.cpp(2): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+          Add directive to 'StdAfx.h' or rebuild precompiled header
+c:\users\daniel\documents\visual studio 2010\projects\arrays_example\arrays_example\arrays_example.cpp(34): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+  Generating Code...

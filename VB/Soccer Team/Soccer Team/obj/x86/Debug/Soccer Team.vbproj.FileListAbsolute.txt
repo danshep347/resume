@@ -1,0 +1,14 @@
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\bin\Debug\Soccer Team.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\bin\Debug\Soccer Team.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\bin\Debug\Soccer Team.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\Soccer_Team.frmSoccerTeam.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\Soccer_Team.Resources.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.pdb
+E:\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.exe
+E:\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.xml
+E:\Soccer Team\Soccer Team\obj\x86\Debug\Soccer Team.pdb

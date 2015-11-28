@@ -1,0 +1,12 @@
+E:\Sales Data Final\Sales Data Final\bin\Debug\Sales Data Final.exe
+E:\Sales Data Final\Sales Data Final\bin\Debug\Sales Data Final.pdb
+E:\Sales Data Final\Sales Data Final\bin\Debug\Sales Data Final.xml
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales_Data_Final.frmSales.resources
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales_Data_Final.frmEnterSales.resources
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales_Data_Final.Resources.resources
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales Data Final.exe
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales Data Final.xml
+E:\Sales Data Final\Sales Data Final\obj\x86\Debug\Sales Data Final.pdb

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\bin\Debug\Payroll.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.frmPayrollCalculator.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+E:\Year 1\2012 Spring\VB #2\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+E:\Year 1\2012 Spring\VB #2\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.xml
+E:\Year 1\2012 Spring\VB #2\Projects\Payroll\Payroll\obj\x86\Debug\Payroll.pdb

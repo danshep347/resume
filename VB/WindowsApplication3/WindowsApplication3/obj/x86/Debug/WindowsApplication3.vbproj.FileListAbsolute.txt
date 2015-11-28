@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Change Tutor.exe
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Change Tutor.pdb
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Change Tutor.xml
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.frmMain.resources
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Change Tutor.exe
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Change Tutor.xml
+E:\Net Programming\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Change Tutor.pdb

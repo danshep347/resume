@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Seating Reservation for Theater", "Seating Reservation for Theater\Seating Reservation for Theater.vbproj", "{F4D3323F-EDE8-421F-9E09-FF3A1A4FECF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D3323F-EDE8-421F-9E09-FF3A1A4FECF1}.Debug|x86.ActiveCfg = Debug|x86
+		{F4D3323F-EDE8-421F-9E09-FF3A1A4FECF1}.Debug|x86.Build.0 = Debug|x86
+		{F4D3323F-EDE8-421F-9E09-FF3A1A4FECF1}.Release|x86.ActiveCfg = Release|x86
+		{F4D3323F-EDE8-421F-9E09-FF3A1A4FECF1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

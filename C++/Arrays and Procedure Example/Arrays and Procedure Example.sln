@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays and Procedure Example", "Arrays and Procedure Example\Arrays and Procedure Example.vcxproj", "{962E836C-347A-4BE5-BD04-3B04597AADC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962E836C-347A-4BE5-BD04-3B04597AADC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{962E836C-347A-4BE5-BD04-3B04597AADC5}.Debug|Win32.Build.0 = Debug|Win32
+		{962E836C-347A-4BE5-BD04-3B04597AADC5}.Release|Win32.ActiveCfg = Release|Win32
+		{962E836C-347A-4BE5-BD04-3B04597AADC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

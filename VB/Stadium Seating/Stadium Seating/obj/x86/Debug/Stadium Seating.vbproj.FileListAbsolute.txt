@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.xml
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.frmStadiumSeating.resources
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium_Seating.Resources.resources
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.exe
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.xml
+E:\Net Programming\Projects\Stadium Seating\Stadium Seating\obj\x86\Debug\Stadium Seating.pdb

@@ -1,0 +1,10 @@
+bin\Debug\Student Data.exe
+bin\Debug\Student Data.pdb
+bin\Debug\Student Data.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.frmStudentData.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Student Data.vbproj.GenerateResource.Cache
+obj\Debug\Student Data.exe
+obj\Debug\Student Data.xml
+obj\Debug\Student Data.pdb

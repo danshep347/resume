@@ -1,0 +1,11 @@
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\Seating_Reservation_for_Theater.Resources.resources
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\bin\Debug\Seating Reservation for Theater.exe
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\bin\Debug\Seating Reservation for Theater.pdb
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\bin\Debug\Seating Reservation for Theater.xml
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\Seating Reservation for Theater.exe
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\Seating Reservation for Theater.xml
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\Seating Reservation for Theater.pdb
+E:\Year 2\2012 Fall\VB #2\Homework\Seating Reservation for Theater\Seating Reservation for Theater\obj\x86\Debug\Seating_Reservation_for_Theater.frmSeatingReservationForTheater.resources

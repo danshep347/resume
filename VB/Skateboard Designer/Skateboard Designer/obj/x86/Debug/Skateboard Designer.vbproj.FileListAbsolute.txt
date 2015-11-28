@@ -1,0 +1,18 @@
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.Resources.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.frmMiscellaneous.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.frmSkateboardDesigner.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.frmDeckSelector.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.frmTruckAssemblies.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard_Designer.frmWheels.resources
+E:\Year 1\2012 Spring\VB #2\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.exe
+E:\Year 1\2012 Spring\VB #2\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.xml
+E:\Year 1\2012 Spring\VB #2\Projects\Skateboard Designer\Skateboard Designer\obj\x86\Debug\Skateboard Designer.pdb

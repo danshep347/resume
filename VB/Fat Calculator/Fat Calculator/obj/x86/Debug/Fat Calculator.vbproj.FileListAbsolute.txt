@@ -1,0 +1,22 @@
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.exe
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.pdb
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.xml
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\WindowsApplication1.frmFatCalculator.resources
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.exe
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.xml
+C:\Documents and Settings\dwolf\my documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.pdb
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.exe
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.xml
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.pdb
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\WindowsApplication1.frmFatCalculator.resources
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.exe
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.pdb
+E:\Net Programming\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.xml

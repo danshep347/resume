@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\Distance_Calculator.frmDistanceCalculator.resources
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\Distance_Calculator.Resources.resources
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\Distance Calculator.exe
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\Distance Calculator.xml
+E:\Net Programming\Projects\Distance Calculator\Distance Calculator\obj\x86\Debug\Distance Calculator.pdb

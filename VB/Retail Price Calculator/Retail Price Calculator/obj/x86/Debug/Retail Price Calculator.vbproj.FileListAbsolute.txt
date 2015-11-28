@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.frmRetailPriceCalculator.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.pdb
+E:\Year 1\2012 Spring\VB #2\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.exe
+E:\Year 1\2012 Spring\VB #2\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.xml
+E:\Year 1\2012 Spring\VB #2\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.pdb

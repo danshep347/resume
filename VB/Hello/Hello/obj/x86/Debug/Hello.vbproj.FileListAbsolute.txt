@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Hello\Hello\bin\Debug\Hello.exe
+E:\Net Programming\Projects\Hello\Hello\bin\Debug\Hello.pdb
+E:\Net Programming\Projects\Hello\Hello\bin\Debug\Hello.xml
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\Hello.frmHello.resources
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\Hello.Resources.resources
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\Hello.exe
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\Hello.xml
+E:\Net Programming\Projects\Hello\Hello\obj\x86\Debug\Hello.pdb

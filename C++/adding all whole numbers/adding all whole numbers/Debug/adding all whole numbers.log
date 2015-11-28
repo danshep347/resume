@@ -1,0 +1,14 @@
+﻿  adding all whole numbers.cpp
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(10): error C2440: '=' : cannot convert from 'void (__cdecl *)(void)' to 'long'
+          There is no context in which this conversion is possible
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(19): error C2556: 'long AddNumbers1to100(void)' : overloaded function differs only by return type from 'void AddNumbers1to100(void)'
+          c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(3) : see declaration of 'AddNumbers1to100'
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(19): error C2371: 'AddNumbers1to100' : redefinition; different basic types
+          c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(3) : see declaration of 'AddNumbers1to100'
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(20): error C2065: 'lngIndex' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(20): error C2065: 'lngIndex' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(20): error C2065: 'lngIndex' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(22): error C2065: 'lngTotal' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(22): error C2065: 'lngIndex' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(25): error C2065: 'lngTotal' : undeclared identifier
+c:\users\daniel\documents\visual studio 2010\projects\adding all whole numbers\adding all whole numbers\adding all whole numbers.cpp(25): error C2143: syntax error : missing ';' before '}'

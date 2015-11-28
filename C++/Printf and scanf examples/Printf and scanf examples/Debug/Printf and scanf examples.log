@@ -1,0 +1,4 @@
+﻿  Printf and scanf examples.cpp
+c:\users\daniel\documents\visual studio 2010\projects\printf and scanf examples\printf and scanf examples\printf and scanf examples.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+  Printf and scanf examples.vcxproj -> c:\users\daniel\documents\visual studio 2010\Projects\Printf and scanf examples\Debug\Printf and scanf examples.exe

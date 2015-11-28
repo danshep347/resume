@@ -1,0 +1,6 @@
+﻿  Procedures Example.cpp
+c:\users\daniel\documents\visual studio 2010\projects\arrays and procedure example\arrays and procedure example\procedures example.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+c:\users\daniel\documents\visual studio 2010\projects\arrays and procedure example\arrays and procedure example\procedures example.cpp(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+  Arrays and Procedure Example.vcxproj -> c:\users\daniel\documents\visual studio 2010\Projects\Arrays and Procedure Example\Debug\Arrays and Procedure Example.exe

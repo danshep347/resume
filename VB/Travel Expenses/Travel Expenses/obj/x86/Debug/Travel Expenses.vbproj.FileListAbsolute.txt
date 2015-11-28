@@ -1,0 +1,38 @@
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.frmMain.resources
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.Resources.resources
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\5292\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe
+E:\5292\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.pdb
+E:\5292\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.xml
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.exe
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.xml
+E:\5292\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.pdb
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.exe
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.xml
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.pdb
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.pdb
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.xml
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.frmMain.resources
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.Resources.resources
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.exe
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.xml
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.pdb
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.pdb
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.xml
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.frmMain.resources
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.Resources.resources
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.frmPerdiem.resources
+C:\Users\Daniel\Downloads\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.frmPerdiem.resources
+C:\Users\Daniel\Downloads\School Documents\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.exe
+C:\Users\Daniel\Downloads\School Documents\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.xml
+C:\Users\Daniel\Downloads\School Documents\Travel Expenses\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.pdb

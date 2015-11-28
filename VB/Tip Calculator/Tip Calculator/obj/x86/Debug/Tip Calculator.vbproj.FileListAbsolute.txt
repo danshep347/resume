@@ -1,0 +1,18 @@
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.xml
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\WindowsApplication1.frmTipCalculator.resources
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.exe
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.xml
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.pdb
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.manifest
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.application
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.exe.manifest
+F:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.application
+E:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.exe
+E:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.xml
+E:\Net Programming\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.pdb

@@ -1,0 +1,11 @@
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\Student Data.exe
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\Student Data.xml
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\Student Data.pdb
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\bin\Debug\Student Data.exe
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\bin\Debug\Student Data.pdb
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\bin\Debug\Student Data.xml
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\WindowsApplication1.frmStudentData.resources
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\WindowsApplication1.Resources.resources
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\ResGen.read.1.tlog
+E:\Year 2\2012 Fall\VB #2\Student Data (1)\Student Data\Student Data\obj\Debug\ResGen.write.1.tlog

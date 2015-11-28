@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\bin\Debug\Calculation Practice.exe
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\bin\Debug\Calculation Practice.pdb
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\bin\Debug\Calculation Practice.xml
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\Calculation_Practice.Form1.resources
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\Calculation_Practice.Resources.resources
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\Calculation Practice.exe
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\Calculation Practice.xml
+E:\Net Programming\Projects\Calculation Practice\Calculation Practice\obj\x86\Debug\Calculation Practice.pdb

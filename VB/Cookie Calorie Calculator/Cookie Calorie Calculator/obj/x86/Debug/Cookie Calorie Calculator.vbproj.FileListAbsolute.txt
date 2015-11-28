@@ -1,0 +1,22 @@
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.exe
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.pdb
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.xml
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie_Calorie_Calculator.frmCookieCalorieCalculator.resources
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie_Calorie_Calculator.Resources.resources
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.exe
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.xml
+F:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.pdb
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.exe
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.xml
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie Calorie Calculator.pdb
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.exe
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.pdb
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\bin\Debug\Cookie Calorie Calculator.xml
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie_Calorie_Calculator.frmCookieCalorieCalculator.resources
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\Cookie_Calorie_Calculator.Resources.resources
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Cookie Calorie Calculator\Cookie Calorie Calculator\obj\x86\Debug\GenerateResource.write.1.tlog

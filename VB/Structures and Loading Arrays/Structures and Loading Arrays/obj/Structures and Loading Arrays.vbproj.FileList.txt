@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Structures_and_Loading_Arrays.frmStructures.resources
+obj\Debug\Structures_and_Loading_Arrays.Resources.resources
+obj\Debug\Structures and Loading Arrays.vbproj.GenerateResource.Cache
+bin\Debug\Structures and Loading Arrays.exe
+bin\Debug\Structures and Loading Arrays.pdb
+bin\Debug\Structures and Loading Arrays.xml
+obj\Debug\Structures and Loading Arrays.exe
+obj\Debug\Structures and Loading Arrays.xml
+obj\Debug\Structures and Loading Arrays.pdb

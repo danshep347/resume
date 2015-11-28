@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+	<head>
+
+		<!-- -------------------------------------------------------------------------------- -->
+		<!-- Name: Daniel Shepherd                                                            -->
+		<!-- Class: 5255-01 HTML for Programmers                                              -->
+		<!-- Abstract: Homework #4 - Tables                                                   -->
+		<!-- -------------------------------------------------------------------------------- -->
+
+		<title> Daniel Shepherd - HTML for Programmers 01 – Homework #4 - Tables </title>
+
+	</head>
+
+	<body>
+	
+		Name: Daniel Shepherd <br />
+		Class: HTML for Programmers (01) <br />
+		Abstract: Homework 4 - Tables <br />
+		<br />
+		
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--       1) - Border, height, width, bgcolor, align, and valign attributes          -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h2> 1) - Border, height, width, bgcolor, align, and valign attributes </h2>
+		
+			<table border="1" height="150px" width="150px">
+				<tr valign="top">
+					<td bgcolor="black" align="left"> 1 </td>
+					<td bgcolor="red" align="center"> 2 </td>
+					<td bgcolor="orange" align="right"> 3 </td>
+				</tr>
+				<tr valign="center">
+					<td bgcolor="yellow" align="left"> 4 </td>
+					<td bgcolor="green" align="center"> 5 </td>
+					<td bgcolor="blue" align="right"> 6 </td>
+				</tr>
+				<tr valign="bottom">
+					<td bgcolor="purple" align="left"> 7 </td>
+					<td bgcolor="pink" align="center"> 8 </td>
+					<td bgcolor="white" align="right"> 9 </td>
+				</tr>
+			</table>
+		
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--                  2) - Colspan and percentage width (e.g. 50%)                    -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h2> 2) - Colspan and percentage width (e.g. 50%) </h2>
+			
+			<table border="1" height="150px" width="150px">
+				<tr align="left">
+					<td colspan="3" width="100%"> 1 </td>
+				</tr>
+				<tr align="left">
+					<td colspan="2" width="66%"> 2 </td>
+					<td colspan="1" width="33%"> 3 </td>
+				</tr>
+				<tr align="left">
+					<td colspan="1" width="33%"> 4 </td>
+					<td colspan="2" width="66%"> 5 </td>
+				</tr>
+			</table>
+		
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--                                3) - Rowspan                                      -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h2> 3) - Rowspan </h2>
+			
+			<table border="1" height="150px" width="150px">
+				<tr align="left">
+					<td rowspan="1" height="33.3%"> 1 </td>
+					<td rowspan="2" height="66.6%"> 4 </td>
+					<td rowspan="3" height="100%"> 6 </td>
+				</tr>
+				<tr align="left">
+					<td rowspan="1" height="33.3%"> 2 </td>
+				</tr>
+				<tr align="left">
+					<td rowspan="1" height="33.3%"> 3 </td>
+					<td rowspan="2" height="33.3%"> 5 </td>
+				</tr>
+			</table>
+		
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--                           4) - Colspan & Rowspan                                 -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h2> 4) - Colspan &amp; Rowspan </h2>
+			
+			<table border="1" height="150px" width="150px">
+				<tr align="center">
+					<td colspan="2" rowspan="1" width="66.6%" height="33.3%"> 1 </td>
+					<td colspan="1" rowspan="2" width="33.3%" height="66.6%"> 2 </td>
+				</tr>
+				<tr align="center">
+					<td colspan="1" rowspan="2" width="33.3%" height="66.6%%"> 4 </td>
+					<td colspan="1" rowspan="1" width="33.3%" height="33.3%"> 5 </td>
+				</tr>
+				<tr align="center">
+					<td colspan="2" rowspan="1" width="66.6%" height="33.3%"> 3 </td>
+				</tr>
+			</table>
+		
+	</body>
+
+</html>

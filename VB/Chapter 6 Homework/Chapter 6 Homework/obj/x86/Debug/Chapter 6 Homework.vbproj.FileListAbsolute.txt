@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\bin\Debug\Chapter 6 Homework.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\bin\Debug\Chapter 6 Homework.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\bin\Debug\Chapter 6 Homework.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\Chapter_6_Homework.Form1.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\Chapter_6_Homework.Resources.resources
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\Chapter 6 Homework.exe
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\Chapter 6 Homework.xml
+c:\users\daniel\documents\visual studio 2010\Projects\Chapter 6 Homework\Chapter 6 Homework\obj\x86\Debug\Chapter 6 Homework.pdb

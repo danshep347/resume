@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+c:\users\daniel\documents\visual studio 2010\Projects\Homework1\Debug\Homework1.exe : fatal error LNK1120: 1 unresolved externals

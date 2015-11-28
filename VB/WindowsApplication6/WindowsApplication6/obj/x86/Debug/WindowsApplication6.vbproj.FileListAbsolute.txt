@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.frmWorkshopSelector.resources
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+E:\Net Programming\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb

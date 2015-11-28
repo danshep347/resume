@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+E:\Net Programming\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+E:\Net Programming\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.xml
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\Latin_Translator.frmLatinTranslator.resources
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\Latin_Translator.Resources.resources
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\Latin Translator.exe
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\Latin Translator.xml
+E:\Net Programming\Projects\Latin Translator\Latin Translator\obj\x86\Debug\Latin Translator.pdb

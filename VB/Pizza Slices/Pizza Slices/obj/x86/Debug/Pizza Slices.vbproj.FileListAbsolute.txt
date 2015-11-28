@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\bin\Debug\Pizza Slices.exe
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\bin\Debug\Pizza Slices.pdb
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\bin\Debug\Pizza Slices.xml
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\Pizza_Slices.frmPizzaSliceCalculator.resources
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\Pizza_Slices.Resources.resources
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\Pizza Slices.exe
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\Pizza Slices.xml
+E:\Net Programming\Projects\Pizza Slices\Pizza Slices\obj\x86\Debug\Pizza Slices.pdb

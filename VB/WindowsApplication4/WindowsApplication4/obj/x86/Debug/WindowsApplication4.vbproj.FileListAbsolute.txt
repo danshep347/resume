@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.frmRPS.resources
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+E:\Net Programming\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb

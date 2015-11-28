@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+	<head>
+
+		<!-- -------------------------------------------------------------------------------- -->
+		<!-- Name: Daniel Shepherd                                                            -->
+		<!-- Class: 5255-01 HTML for Programmers                                              -->
+		<!-- Abstract: Homework #5 - More Forms                                               -->
+		<!-- -------------------------------------------------------------------------------- -->
+
+		<title> Daniel Shepherd - HTML for Programmers 01  Homework #5 - More Forms </title>
+
+	</head>
+
+	<body>
+	
+		Name: Daniel Shepherd <br />
+		Class: HTML for Programmers (01) <br />
+		Abstract: Homework 5 - More Forms <br />
+		<br />
+		
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--                            1) - Contact Us Form                                  -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h3> 1) - Contact Us Form </h3>
+			<form id="frmContactUs" method="get" action="">
+				<table border="1">
+					<tr>
+						<td colspan="100%" bgcolor="gray">
+							<label for="lblSendUsAnEmail"><b>Send us an email</b></label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label for="lblSubject">Subject: *</label>
+						</td>
+						<td>
+							<select name="selSubject">
+								<option selected="selected" value="GeneralQuestion">General question</option>
+								<option value="OrderFollowup">Order Followup</option>
+								<option value="Sales">Sales</option>
+								<option value="Other">Other</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td><label for="lblYourName">Your Name: *</label></td>
+						<td><input type="text" name="txtYourName" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblTitle">Title: </label></td>
+						<td><input type="text" name="txtTitle" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblCompany">Company: </label></td>
+						<td><input type="text" name="txtCompany" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblPhoneNumber">Phone Number: </label></td>
+						<td><input type="text" name="txtPhoneNumber" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblEmailAddress">Email Address: *</label></td>
+						<td><input type="text" name="txtEmailAddress" size="20" /></td>
+					</tr>
+					<tr>
+						<td colspan="100%"><label>Message: *</label></td>
+					</tr>
+					<tr>
+						<td colspan="100%"><textarea name="txtMessage" rows="7" cols="40"></textarea></td>
+					</tr>
+					<tr>
+						<td colspan="100%" align="right"><label for="lblRequiredField"><small>*Required Field</small></label></td>
+					</tr>
+					<tr align="center">
+						<td colspan="100%">
+							<input type="submit" value="Submit" />
+							<input type="reset" value="Clear" />
+						</td>
+					</tr>
+				</table>
+			</form>
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--               2) - Checkboxes, radio buttons, combobox and listbox               -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h3> 2) - Checkboxes, radio buttons, combobox and listbox </h3>
+			<form id="frmCheckboxes" method="get" action="">
+				<table border="1">
+					<tr>
+						<td colspan="100%" bgcolor="gray"><label for="lblMiscellaneous"><b>Miscellaneous</b></label></td>
+					</tr>
+					<tr>
+						<td valign="top"><label for="lblToppings">Toppings:</label></td>
+						<td>
+							<input type="checkbox" name="chkCaramel" value="Caramel" />Caramel<br />
+							<input type="checkbox" name="chkHotFudge" value="HotFudge" />Hot Fudge<br />
+							<input type="checkbox" name="chkSprinkles" value="Sprinkles" />Sprinkles
+						</td>
+					</tr>
+					<tr>
+						<td colspan="100%"><hr /></td>
+					</tr>
+					<tr>
+						<td valign="top"><label for="lblFlavor">Flavor: *</label></td>
+						<td>
+							<input type="radio" name="radChocolate" value="Chocolate" />Chocolate<br />
+							<input type="radio" name="radStrawberry" value="Strawberry" />Strawberry<br />
+							<input type="radio" name="radVanilla" value="Vanilla" />Vanilla
+						</td>
+					</tr>
+					<tr>
+						<td colspan="100%"><hr /></td>
+					</tr>
+					<tr>
+						<td><label for="lblColor1">Color1: *</label></td>
+						<td>
+							<select name="selColor1">
+								<optgroup label="Primary Colors">
+									<option selected="selected" value="Red">Red</option>
+									<option value="Green">Green</option>
+									<option value="Blue">Blue</option>
+								</optgroup>
+								<optgroup label="Secondary Colors">
+									<option value="Yellow">Yellow</option>
+									<option value="Magenta">Magenta</option>
+									<option value="Cyan">Cyan</option>
+								</optgroup>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="100%"><hr /></td>
+					</tr>
+					<tr>
+						<td><label for="lblColor2">Color2: *</label></td>
+						<td>
+							<select name="selColor2" size="6">
+								<optgroup label="Primary Colors">
+									<option selected="selected" value="Red">Red</option>
+									<option value="Green">Green</option>
+									<option value="Blue">Blue</option>
+								</optgroup>
+								<optgroup label="Secondary Colors">
+									<option value="Yellow">Yellow</option>
+									<option value="Magenta">Magenta</option>
+									<option value="Cyan">Cyan</option>
+								</optgroup>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="100%"><hr /></td>
+					</tr>
+					<tr>
+						<td colspan="100%" align="right"><label for="lblRequiredField"><small>*Required Field</small></label></td>
+					</tr>
+					<tr align="center">
+						<td colspan="100%">
+							<input type="submit" value="Submit" />
+							<input type="reset" value="Clear" />
+						</td>
+					</tr>
+				</table>
+			</form>
+
+		<!-- -------------------------------------------------------------------------------- -->
+		<!--                            3) - Tricky Form Fields                               -->
+		<!-- -------------------------------------------------------------------------------- -->
+		<h3> 3) - Tricky Form Fields </h3>
+			<form id="frmTrickyFormFields" method="get" action="">
+				<table border="1">
+					<tr>
+						<td colspan="100%" bgcolor="gray"><label for="lblTrickyFormFields"><b>Tricky Form Fields</b></label></td>
+					</tr>
+					<tr>
+						<td><label for="lblFirstName">First Name: *</label></td>
+						<td><input type="text" name="txtFirstName" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblLastName">Last Name: *</label></td>
+						<td><input type="text" name="txtLastName" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblEmailAddress2">Email Address: *</label></td>
+						<td><input type="text" name="txtEmailAddress2" size="20" /></td>
+					</tr>
+					<tr>
+						<td><label for="lblConfirmEmailAddress">Confirm Email Address: *</label></td>
+						<td><input type="text" name="txtConfirmEmailAddress" size="20" /></td>
+					</tr>
+					<tr>
+						<td valign="top"><label for="lblDateOfBirth">Date of Birth: *</label></td>
+						<td>
+							<input type="text" name="txtDateOfBirth" size="20" /><br />
+							<label for="lblDateFormat"><small>yyyy/mm/dd</small></label>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top"><label for="lblSocialSecurityNumber">Social Security Number: *</label></td>
+						<td>
+							<input type="text" name="txtSocialSecurityNumber" size="20" /><br />
+							<label for="lblSSNFormat"><small>###-##-####</small></label>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top"><label for="lblSalary">Salary: </label></td>
+						<td>
+							<input type="text" name="txtSalary" size="20" /><br />
+							<label for="lblSalaryFormat"><small>$#,###.##</small></label>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="100%"><hr /></td>
+					</tr>
+					<tr align="center">
+						<td colspan="100%">
+							<input type="submit" value="Submit" />
+							<input type="reset" value="Clear" />
+						</td>
+					</tr>
+				</table>
+			</form>
+	</body>
+</html>

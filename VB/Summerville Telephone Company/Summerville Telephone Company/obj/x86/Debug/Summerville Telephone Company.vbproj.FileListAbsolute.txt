@@ -1,0 +1,11 @@
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\bin\Debug\Summerville Telephone Company.exe
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\bin\Debug\Summerville Telephone Company.pdb
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\bin\Debug\Summerville Telephone Company.xml
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\Summerville_Telephone_Company.frmSummervilleTelephoneCompany.resources
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\Summerville_Telephone_Company.Resources.resources
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\Summerville Telephone Company.exe
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\Summerville Telephone Company.xml
+E:\Net Programming\Projects\Summerville Telephone Company\Summerville Telephone Company\obj\x86\Debug\Summerville Telephone Company.pdb
